@@ -43,10 +43,30 @@ Applications on slide 2: human-computer interfaces, telecommunication, assistive
 > [!warning] Watch out
 > Spectra multiply, waveforms do not. In time the source waveform is convolved with the vocal-tract impulse response ([[CS568 L04 - Signals and transforms]]).
 
+> [!question]- Check (slide 1): Two people say the same sentence. For speech recognition and for speaker recognition, which differences between the two signals are useful and which are a disturbance?
+> Speech recognition wants the linguistic content. The content is the same, so every difference between the two voices (pitch, voice quality, accent) is a disturbance that the system must ignore.
+> Speaker recognition wants the identity. The differences between the two voices are exactly the information. The words are the part it must ignore.
+> So the two tasks use the same signal but keep opposite parts of it.
+
+> [!question]- Check (slide 2, left panel): In the drawing, $U(s)$ and $P(s)$ are drawn as many vertical lines, but $T(s)$ and $R(s)$ are smooth curves. Why? And why does $P(s)$ have peaks when $U(s)$ only falls?
+> $U(s)$ is the spectrum of a periodic source (the vocal folds open and close at a regular rate). A periodic signal has energy only at multiples of its repetition rate, so its spectrum is a set of lines.
+> $T(s)$ and $R(s)$ are transfer functions of filters (vocal tract, lips). A filter has a gain at every frequency, so its curve is smooth.
+> $P(s)=U(s)\,T(s)\,R(s)$: each source line is multiplied by the filter gain at its frequency. The lines stay where they are, and their heights now follow the peaks of $T(s)$ (the formants). $R(s)$ rises with frequency, so it lifts the high lines a little.
+
+> [!question]- Check (slide 2, middle panel): The red boxes on the waveform are frames, and the arrows tie them to the states 2 to 5. A segment of 6 frames is absorbed without any skip. How many self-loops are used? Which arcs does the model use more for slow speech, and which for fast speech?
+> 6 frames need 5 moves between frames. Going from state 2 to state 5 without skips needs 3 forward moves. The other $5-3=2$ moves are self-loops.
+> Slow speech has more frames per sound, so the self-loops are used more. Fast speech has fewer frames, so the forward arcs and the skips are used more. This is how one model fits the same word at different speeds.
+
 ## 2. Related disciplines (slide 3)
 ![[cs568_lecture_01_l1_introduction_p003.jpg]]
 
 **Notes.** Seven neighbouring fields feed the course: digital signal processing (lectures 4 to 6), natural language processing (15, 17), machine learning (10, 13), phonetics (3), human-computer interaction, perceptual psychology (2), pattern recognition (11, 12). Phonetics describes the sounds a speaker makes. Perceptual psychology describes what the listener hears.
+
+> [!question]- Check (slide 3): Match each job to one discipline of the slide: (a) design a filter that removes a 50 Hz hum, (b) explain why a step of 100 Hz sounds smaller at high frequencies than at low ones, (c) describe how the tongue and lips form the vowel [i], (d) decide which of ten stored word models fits a measured feature sequence best.
+> (a) Digital signal processing: it works on the waveform and its spectrum.
+> (b) Perceptual psychology: it is about what the listener hears, not about the physical signal.
+> (c) Phonetics: it describes how speech sounds are made and how they are classified.
+> (d) Pattern recognition: it assigns a measurement to one of several classes. (Machine learning would be the answer for a different job: how the ten models are learned from example recordings.)
 
 ## 3. Objectives, logistics, references, grading (slides 4-7)
 ![[cs568_lecture_01_l1_introduction_p004.jpg]]
@@ -60,6 +80,16 @@ $$\text{grade}=0.40\cdot\text{project}+0.25\cdot\text{midterm}+0.35\cdot\text{fi
 
 > [!example] Weighted grade
 > Project 80, midterm 60, final 70: $32+15+24.5=71.5$.
+
+> [!question]- Check (slide 4): The second outcome names three operations on speech signals: decompositions, codifications and modifications. Say in one sentence what each means, and name one course topic for each.
+> Decomposition: split the signal into parts, mainly source and filter. Topics: linear prediction, source estimation, cepstral analysis.
+> Codification (coding): describe the signal with fewer bits and rebuild it at the receiver. Topic: speech analysis and coding (for example sending linear-prediction parameters instead of samples).
+> Modification: change one property of the speech and keep the rest. Topics: prosodic modification (pitch, duration) and voice conversion (speaker identity).
+
+> [!question]- Check (slides 5-7): What is the main study source of this course, and which graded part has the largest weight? May the project be done in a team?
+> There is no official textbook. The lecture slides are the course, and the books on slide 6 are only recommended references.
+> The term project has the largest weight, 40%. The final is 35% and the midterm 25%.
+> No. The project (proposal and final report) must be done individually.
 
 ## 4. Course contents and schedule (slides 8-10)
 ![[cs568_lecture_01_l1_introduction_p008.jpg]]
@@ -80,6 +110,28 @@ Dates from the schedule: project announced 5 to 9 Oct, midterm 9 to 13 Nov, proj
 
 > [!warning] Watch out
 > Lecture numbers follow the slide decks, not the blocks. Lectures 10 and 11 are mathematical foundations but come after lecture 9. The "Chapter" column of the schedule is the reading, not a lecture number.
+
+> [!info] The topic names of slide 9 in one line each (beyond the slides)
+> - **Template matching:** an unknown word is compared with stored example words (templates). The time axis is stretched first, so that a slow and a fast version of a word can be compared.
+> - **Hidden Markov model (HMM):** a statistical model of a word or a sound as a chain of states, as in the middle panel of slide 2.
+> - **Large vocabulary continuous speech recognition:** recognition of natural, connected speech with many thousands of words. It needs a pronunciation dictionary and a language model on top of the acoustic models.
+> - **HTK:** the Hidden Markov Model Toolkit, the software used to build the recogniser of lecture 21.
+> - **Text-to-speech front-end:** from written text to a linguistic description (which sounds, which stress, which melody). **Back-end:** from that description to a waveform.
+> - **Prosody (bürün):** the melody and rhythm of speech: pitch, duration and loudness. Prosodic modification changes these and keeps the words and the speaker.
+> - **Voice conversion:** the speech of one speaker is changed so that it sounds like another speaker. The words stay.
+
+> [!question]- Check (slide 8): The block "Speech analysis and coding" comes before the block "Speech and speaker recognition". Why does a recogniser need the analysis methods first?
+> A recogniser does not work on raw samples. The signal is cut into short frames, and each frame is described by a few numbers (features) that describe its spectrum.
+> Short-time Fourier analysis, linear prediction and cepstral analysis are the methods that produce these features. The HMMs of the recognition block then model sequences of feature vectors.
+> The mathematical foundations block is needed in the same way: filters and transforms for the analysis, probability and pattern recognition for the models.
+
+> [!question]- Check (slide 9): (a) Which of the two text-to-speech stages works with text and symbols only, and which one produces sound? (b) Prosodic modification and voice conversion both change a recording. What does each one change, and what does it keep?
+> (a) The front-end works with symbols only: it turns the text into sounds, stress and melody. The back-end turns this description into a waveform.
+> (b) Prosodic modification changes pitch, duration or loudness. The words and the speaker stay the same. Voice conversion changes the speaker identity. The words stay the same.
+
+> [!question]- Check (slide 10): The midterm is in the week of 9 to 13 Nov. Which topics have been taught in the weeks before that week? Which two topics are scheduled in the midterm week itself?
+> Before: introduction, speech production and perception, organization of speech sounds, signals and transforms, digital filters, short-time Fourier analysis and synthesis, linear prediction, source estimation.
+> In the midterm week: cepstral analysis, and probability, statistics and estimation. The slide does not say if these two belong to the midterm.
 
 ## Key formulas and terms
 | Term | Meaning / formula |
