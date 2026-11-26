@@ -17,29 +17,29 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 | Lecture | Topic | Check questions |
 |---|---|---|
-| L01 | [Introduction](<lessons/CS568 L01 - Introduction.md>) | not yet |
-| L02 | [Speech production and perception](<lessons/CS568 L02 - Speech production and perception.md>) | not yet |
-| L03 | [Organization of speech sounds](<lessons/CS568 L03 - Organization of speech sounds.md>) | not yet |
-| L04 | [Signals and transforms](<lessons/CS568 L04 - Signals and transforms.md>) | not yet |
-| L05 | [Digital filters](<lessons/CS568 L05 - Digital filters.md>) | not yet |
-| L06 | [Short-time Fourier analysis](<lessons/CS568 L06 - Short-time Fourier analysis.md>) | not yet |
-| L07 | [Linear prediction of speech](<lessons/CS568 L07 - Linear prediction of speech.md>) | not yet |
-| L08 | [Source estimation](<lessons/CS568 L08 - Source estimation.md>) | not yet |
-| L09 | [Cepstral analysis](<lessons/CS568 L09 - Cepstral analysis.md>) | not yet |
-| L10 | [Probability and estimation theory](<lessons/CS568 L10 - Probability and estimation theory.md>) | not yet |
-| L11 | [Pattern recognition principles](<lessons/CS568 L11 - Pattern recognition principles.md>) | not yet |
-| L12 | [Template matching and DTW](<lessons/CS568 L12 - Template matching and DTW.md>) | not yet |
-| L13 | [Hidden Markov models](<lessons/CS568 L13 - Hidden Markov models.md>) | not yet |
-| L14 | [Refinements for HMMs](<lessons/CS568 L14 - Refinements for HMMs.md>) | not yet |
-| L15 | [Large vocabulary speech recognition](<lessons/CS568 L15 - Large vocabulary speech recognition.md>) | not yet |
-| L16 | [Speaker recognition](<lessons/CS568 L16 - Speaker recognition.md>) | not yet |
-| L17 | [Speech synthesis front-end](<lessons/CS568 L17 - Speech synthesis front-end.md>) | not yet |
-| L18 | [Speech synthesis back-end](<lessons/CS568 L18 - Speech synthesis back-end.md>) | not yet |
-| L19 | [Prosodic modification of speech](<lessons/CS568 L19 - Prosodic modification of speech.md>) | not yet |
-| L20 | [Voice conversion](<lessons/CS568 L20 - Voice conversion.md>) | not yet |
-| L21 | [HTK recogniser tutorial](<lessons/CS568 L21 - HTK recogniser tutorial.md>) | not yet |
+| L01 | [Introduction](<lessons/CS568 L01 - Introduction.md>) | 9 |
+| L02 | [Speech production and perception](<lessons/CS568 L02 - Speech production and perception.md>) | 29 |
+| L03 | [Organization of speech sounds](<lessons/CS568 L03 - Organization of speech sounds.md>) | 34 |
+| L04 | [Signals and transforms](<lessons/CS568 L04 - Signals and transforms.md>) | 34 |
+| L05 | [Digital filters](<lessons/CS568 L05 - Digital filters.md>) | 23 |
+| L06 | [Short-time Fourier analysis](<lessons/CS568 L06 - Short-time Fourier analysis.md>) | 25 |
+| L07 | [Linear prediction of speech](<lessons/CS568 L07 - Linear prediction of speech.md>) | 23 |
+| L08 | [Source estimation](<lessons/CS568 L08 - Source estimation.md>) | 24 |
+| L09 | [Cepstral analysis](<lessons/CS568 L09 - Cepstral analysis.md>) | 22 |
+| L10 | [Probability and estimation theory](<lessons/CS568 L10 - Probability and estimation theory.md>) | 34 |
+| L11 | [Pattern recognition principles](<lessons/CS568 L11 - Pattern recognition principles.md>) | 28 |
+| L12 | [Template matching and DTW](<lessons/CS568 L12 - Template matching and DTW.md>) | 19 |
+| L13 | [Hidden Markov models](<lessons/CS568 L13 - Hidden Markov models.md>) | 25 |
+| L14 | [Refinements for HMMs](<lessons/CS568 L14 - Refinements for HMMs.md>) | 26 |
+| L15 | [Large vocabulary speech recognition](<lessons/CS568 L15 - Large vocabulary speech recognition.md>) | 37 |
+| L16 | [Speaker recognition](<lessons/CS568 L16 - Speaker recognition.md>) | 28 |
+| L17 | [Speech synthesis front-end](<lessons/CS568 L17 - Speech synthesis front-end.md>) | 20 |
+| L18 | [Speech synthesis back-end](<lessons/CS568 L18 - Speech synthesis back-end.md>) | 27 |
+| L19 | [Prosodic modification of speech](<lessons/CS568 L19 - Prosodic modification of speech.md>) | 32 |
+| L20 | [Voice conversion](<lessons/CS568 L20 - Voice conversion.md>) | 26 |
+| L21 | [HTK recogniser tutorial](<lessons/CS568 L21 - HTK recogniser tutorial.md>) | 29 |
 
-21 lessons, 0 check questions, 586 slide images.
+21 lessons, 554 check questions, 586 slide images.
 
 ## Folders
 
