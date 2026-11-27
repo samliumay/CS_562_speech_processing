@@ -412,5 +412,6 @@ $$m=2595\log_{10}\!\left(1+\frac{f}{700}\right),\qquad f=700\left(10^{m/2595}-1\
 - Used later: [[CS568 L07 - Linear prediction of speech]] (tube model, $N/2$ rule)
 - Full step-by-step notes (PDF): [CS568_Lecture_02_Speech_Production_Perception.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_02/CS568_Lecture_02_Speech_Production_Perception.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_02/CS568_Lecture_02_Speech_Production_Perception.pdf`
 - Original slides (PDF): [l2.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_02/l2.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_02/l2.pdf`
+- Quiz: [[CS568 L02 - Speech production and perception - quiz]]
 
 Slides not embedded: 1 (outline).
