@@ -364,5 +364,6 @@ One resonator per formant, $H_n(z)=\dfrac{1}{(1-p_nz^{-1})(1-p_n^{*}z^{-1})}$, c
 - Used later: [[CS568 L07 - Linear prediction of speech]] (all-pole filter)
 - Full step-by-step notes (PDF): [CS568_Lecture_05_Digital_Filters.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_05/CS568_Lecture_05_Digital_Filters.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_05/CS568_Lecture_05_Digital_Filters.pdf`
 - Original slides (PDF): [l5.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_05/l5.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_05/l5.pdf`
+- Quiz: [[CS568 L05 - Digital filters - quiz]]
 
 Slides not embedded: 1 (outline).
