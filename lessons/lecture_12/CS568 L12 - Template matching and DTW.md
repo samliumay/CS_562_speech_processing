@@ -377,5 +377,6 @@ Slide 21: alignments of "eight" with "eight" (without and with a small distortio
 - Previous lecture: [[CS568 L11 - Pattern recognition principles]]
 - Full step-by-step notes (PDF): [CS568_Lecture_12_Template_Matching.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_12/CS568_Lecture_12_Template_Matching.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_12/CS568_Lecture_12_Template_Matching.pdf`
 - Original slides (PDF): [l12.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_12/l12.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_12/l12.pdf`
+- Quiz: [[CS568 L12 - Template matching and DTW - quiz]]
 
 Slides not embedded: 1
