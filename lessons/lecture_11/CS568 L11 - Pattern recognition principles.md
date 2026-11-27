@@ -458,5 +458,6 @@ Algorithm: choose $C$; initialise the clusters or the centres; repeat (compute e
 - Previous lecture: [[CS568 L10 - Probability and estimation theory]]
 - Full step-by-step notes (PDF): [CS568_Lecture_11_Pattern_Recognition.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_11/CS568_Lecture_11_Pattern_Recognition.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_11/CS568_Lecture_11_Pattern_Recognition.pdf`
 - Original slides (PDF): [l11.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_11/l11.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_11/l11.pdf`
+- Quiz: [[CS568 L11 - Pattern recognition principles - quiz]]
 
 Slides not embedded: 1
