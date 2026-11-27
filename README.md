@@ -19,15 +19,15 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 | Lecture | Topic | Check questions | Multiple choice |
 |---|---|---|---|
-| L01 | [Introduction](<lessons/lecture_01/CS568 L01 - Introduction.md>) | 9 | not yet |
-| L02 | [Speech production and perception](<lessons/lecture_02/CS568 L02 - Speech production and perception.md>) | 29 | not yet |
-| L03 | [Organization of speech sounds](<lessons/lecture_03/CS568 L03 - Organization of speech sounds.md>) | 34 | not yet |
-| L04 | [Signals and transforms](<lessons/lecture_04/CS568 L04 - Signals and transforms.md>) | 34 | not yet |
-| L05 | [Digital filters](<lessons/lecture_05/CS568 L05 - Digital filters.md>) | 23 | not yet |
-| L06 | [Short-time Fourier analysis](<lessons/lecture_06/CS568 L06 - Short-time Fourier analysis.md>) | 25 | not yet |
-| L07 | [Linear prediction of speech](<lessons/lecture_07/CS568 L07 - Linear prediction of speech.md>) | 23 | not yet |
-| L08 | [Source estimation](<lessons/lecture_08/CS568 L08 - Source estimation.md>) | 24 | not yet |
-| L09 | [Cepstral analysis](<lessons/lecture_09/CS568 L09 - Cepstral analysis.md>) | 22 | not yet |
+| L01 | [Introduction](<lessons/lecture_01/CS568 L01 - Introduction.md>) | 9 | [quiz](<lessons/lecture_01/CS568 L01 - Introduction - quiz.md>) |
+| L02 | [Speech production and perception](<lessons/lecture_02/CS568 L02 - Speech production and perception.md>) | 29 | [quiz](<lessons/lecture_02/CS568 L02 - Speech production and perception - quiz.md>) |
+| L03 | [Organization of speech sounds](<lessons/lecture_03/CS568 L03 - Organization of speech sounds.md>) | 34 | [quiz](<lessons/lecture_03/CS568 L03 - Organization of speech sounds - quiz.md>) |
+| L04 | [Signals and transforms](<lessons/lecture_04/CS568 L04 - Signals and transforms.md>) | 34 | [quiz](<lessons/lecture_04/CS568 L04 - Signals and transforms - quiz.md>) |
+| L05 | [Digital filters](<lessons/lecture_05/CS568 L05 - Digital filters.md>) | 23 | [quiz](<lessons/lecture_05/CS568 L05 - Digital filters - quiz.md>) |
+| L06 | [Short-time Fourier analysis](<lessons/lecture_06/CS568 L06 - Short-time Fourier analysis.md>) | 25 | [quiz](<lessons/lecture_06/CS568 L06 - Short-time Fourier analysis - quiz.md>) |
+| L07 | [Linear prediction of speech](<lessons/lecture_07/CS568 L07 - Linear prediction of speech.md>) | 23 | [quiz](<lessons/lecture_07/CS568 L07 - Linear prediction of speech - quiz.md>) |
+| L08 | [Source estimation](<lessons/lecture_08/CS568 L08 - Source estimation.md>) | 24 | [quiz](<lessons/lecture_08/CS568 L08 - Source estimation - quiz.md>) |
+| L09 | [Cepstral analysis](<lessons/lecture_09/CS568 L09 - Cepstral analysis.md>) | 22 | [quiz](<lessons/lecture_09/CS568 L09 - Cepstral analysis - quiz.md>) |
 | L10 | [Probability and estimation theory](<lessons/lecture_10/CS568 L10 - Probability and estimation theory.md>) | 34 | not yet |
 | L11 | [Pattern recognition principles](<lessons/lecture_11/CS568 L11 - Pattern recognition principles.md>) | 28 | not yet |
 | L12 | [Template matching and DTW](<lessons/lecture_12/CS568 L12 - Template matching and DTW.md>) | 19 | not yet |
@@ -47,7 +47,6 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 - `lessons/lecture_NN/`: the lesson note of a lecture and its multiple-choice quiz.
 - `others/slides/`: the slide images the notes embed.
-- `learning_agent/`: one brief per lesson for a teacher agent (which files to read, known slide errors, how to use the questions).
 - `labs/`, `quizzes/` (for the real course quizzes), `other_resources/`: empty for now.
 
 ## Note
