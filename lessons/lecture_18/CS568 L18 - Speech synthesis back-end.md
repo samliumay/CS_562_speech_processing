@@ -391,5 +391,6 @@ Performance: smooth but poor voice quality (buzzy from the simple excitation, mu
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_18_TTS_Back_End.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_18/CS568_Lecture_18_TTS_Back_End.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_18/CS568_Lecture_18_TTS_Back_End.pdf`
 - Original slides (PDF): [l18.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_18/l18.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_18/l18.pdf`
+- Quiz: [[CS568 L18 - Speech synthesis back-end - quiz]]
 
 Slides not embedded: 1
