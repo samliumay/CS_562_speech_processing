@@ -303,5 +303,6 @@ Both are zero for $t<0$. Typical values: $\alpha\approx3\ \mathrm{s^{-1}}$, $\be
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_17_TTS_Front_End.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_17/CS568_Lecture_17_TTS_Front_End.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_17/CS568_Lecture_17_TTS_Front_End.pdf`
 - Original slides (PDF): [l17.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_17/l17.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_17/l17.pdf`
+- Quiz: [[CS568 L17 - Speech synthesis front-end - quiz]]
 
 Slides not embedded: 1
