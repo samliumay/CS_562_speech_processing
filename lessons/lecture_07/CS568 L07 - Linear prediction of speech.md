@@ -364,6 +364,7 @@ Only the ratios of areas can be found, not the absolute areas.
 - Course index: [[CS568 Home]]
 - Previous: [[CS568 L06 - Short-time Fourier analysis]]
 - Background: [[CS568 L05 - Digital filters]] (poles, all-pole filters), [[CS568 L02 - Speech production and perception]] (tube model, reflection coefficients)
+- Quiz: [[CS568 L07 - Linear prediction of speech - quiz]]
 - Full step-by-step notes (PDF): [CS568_Lecture_07_Linear_Prediction.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_07/CS568_Lecture_07_Linear_Prediction.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_07/CS568_Lecture_07_Linear_Prediction.pdf`
 - Original slides (PDF): [l7.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_07/l7.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_07/l7.pdf`
 
