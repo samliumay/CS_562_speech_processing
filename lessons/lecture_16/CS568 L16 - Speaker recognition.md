@@ -387,5 +387,6 @@ Real scores do not behave as the theory says, so they are normalised: $\Lambda_{
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_16_Speaker_Recognition.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_16/CS568_Lecture_16_Speaker_Recognition.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_16/CS568_Lecture_16_Speaker_Recognition.pdf`
 - Original slides (PDF): [l16.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_16/l16.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_16/l16.pdf`
+- Quiz: [[CS568 L16 - Speaker recognition - quiz]]
 
 Slides not embedded: 1
