@@ -414,5 +414,6 @@ Each iteration does not increase the distance between $|X_e|$ and $|X|$. The pro
 - Background: [[CS568 L04 - Signals and transforms]] (DFT, frequency shift), [[CS568 L03 - Organization of speech sounds]] (wideband and narrowband spectrograms)
 - Full step-by-step notes (PDF): [CS568_Lecture_06_STFT.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_06/CS568_Lecture_06_STFT.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_06/CS568_Lecture_06_STFT.pdf`
 - Original slides (PDF): [l6.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_06/l6.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_06/l6.pdf`
+- Quiz: [[CS568 L06 - Short-time Fourier analysis - quiz]]
 
 Slides not embedded: 1 (outline).
