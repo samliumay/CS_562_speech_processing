@@ -28,18 +28,18 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 | L07 | [Linear prediction of speech](<lessons/lecture_07/CS568 L07 - Linear prediction of speech.md>) | 23 | [quiz](<lessons/lecture_07/CS568 L07 - Linear prediction of speech - quiz.md>) |
 | L08 | [Source estimation](<lessons/lecture_08/CS568 L08 - Source estimation.md>) | 24 | [quiz](<lessons/lecture_08/CS568 L08 - Source estimation - quiz.md>) |
 | L09 | [Cepstral analysis](<lessons/lecture_09/CS568 L09 - Cepstral analysis.md>) | 22 | [quiz](<lessons/lecture_09/CS568 L09 - Cepstral analysis - quiz.md>) |
-| L10 | [Probability and estimation theory](<lessons/lecture_10/CS568 L10 - Probability and estimation theory.md>) | 34 | not yet |
-| L11 | [Pattern recognition principles](<lessons/lecture_11/CS568 L11 - Pattern recognition principles.md>) | 28 | not yet |
-| L12 | [Template matching and DTW](<lessons/lecture_12/CS568 L12 - Template matching and DTW.md>) | 19 | not yet |
-| L13 | [Hidden Markov models](<lessons/lecture_13/CS568 L13 - Hidden Markov models.md>) | 25 | not yet |
-| L14 | [Refinements for HMMs](<lessons/lecture_14/CS568 L14 - Refinements for HMMs.md>) | 26 | not yet |
-| L15 | [Large vocabulary speech recognition](<lessons/lecture_15/CS568 L15 - Large vocabulary speech recognition.md>) | 37 | not yet |
-| L16 | [Speaker recognition](<lessons/lecture_16/CS568 L16 - Speaker recognition.md>) | 28 | not yet |
-| L17 | [Speech synthesis front-end](<lessons/lecture_17/CS568 L17 - Speech synthesis front-end.md>) | 20 | not yet |
-| L18 | [Speech synthesis back-end](<lessons/lecture_18/CS568 L18 - Speech synthesis back-end.md>) | 27 | not yet |
-| L19 | [Prosodic modification of speech](<lessons/lecture_19/CS568 L19 - Prosodic modification of speech.md>) | 32 | not yet |
-| L20 | [Voice conversion](<lessons/lecture_20/CS568 L20 - Voice conversion.md>) | 26 | not yet |
-| L21 | [HTK recogniser tutorial](<lessons/lecture_21/CS568 L21 - HTK recogniser tutorial.md>) | 29 | not yet |
+| L10 | [Probability and estimation theory](<lessons/lecture_10/CS568 L10 - Probability and estimation theory.md>) | 34 | [quiz](<lessons/lecture_10/CS568 L10 - Probability and estimation theory - quiz.md>) |
+| L11 | [Pattern recognition principles](<lessons/lecture_11/CS568 L11 - Pattern recognition principles.md>) | 28 | [quiz](<lessons/lecture_11/CS568 L11 - Pattern recognition principles - quiz.md>) |
+| L12 | [Template matching and DTW](<lessons/lecture_12/CS568 L12 - Template matching and DTW.md>) | 19 | [quiz](<lessons/lecture_12/CS568 L12 - Template matching and DTW - quiz.md>) |
+| L13 | [Hidden Markov models](<lessons/lecture_13/CS568 L13 - Hidden Markov models.md>) | 25 | [quiz](<lessons/lecture_13/CS568 L13 - Hidden Markov models - quiz.md>) |
+| L14 | [Refinements for HMMs](<lessons/lecture_14/CS568 L14 - Refinements for HMMs.md>) | 26 | [quiz](<lessons/lecture_14/CS568 L14 - Refinements for HMMs - quiz.md>) |
+| L15 | [Large vocabulary speech recognition](<lessons/lecture_15/CS568 L15 - Large vocabulary speech recognition.md>) | 37 | [quiz](<lessons/lecture_15/CS568 L15 - Large vocabulary speech recognition - quiz.md>) |
+| L16 | [Speaker recognition](<lessons/lecture_16/CS568 L16 - Speaker recognition.md>) | 28 | [quiz](<lessons/lecture_16/CS568 L16 - Speaker recognition - quiz.md>) |
+| L17 | [Speech synthesis front-end](<lessons/lecture_17/CS568 L17 - Speech synthesis front-end.md>) | 20 | [quiz](<lessons/lecture_17/CS568 L17 - Speech synthesis front-end - quiz.md>) |
+| L18 | [Speech synthesis back-end](<lessons/lecture_18/CS568 L18 - Speech synthesis back-end.md>) | 27 | [quiz](<lessons/lecture_18/CS568 L18 - Speech synthesis back-end - quiz.md>) |
+| L19 | [Prosodic modification of speech](<lessons/lecture_19/CS568 L19 - Prosodic modification of speech.md>) | 32 | [quiz](<lessons/lecture_19/CS568 L19 - Prosodic modification of speech - quiz.md>) |
+| L20 | [Voice conversion](<lessons/lecture_20/CS568 L20 - Voice conversion.md>) | 26 | [quiz](<lessons/lecture_20/CS568 L20 - Voice conversion - quiz.md>) |
+| L21 | [HTK recogniser tutorial](<lessons/lecture_21/CS568 L21 - HTK recogniser tutorial.md>) | 29 | [quiz](<lessons/lecture_21/CS568 L21 - HTK recogniser tutorial - quiz.md>) |
 
 21 lessons, 554 check questions, 586 slide images.
 
