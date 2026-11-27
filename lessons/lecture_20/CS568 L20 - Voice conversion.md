@@ -377,5 +377,6 @@ Results (slide 25): accent about 4.8 for the learner and for prosodic conversion
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_20_Voice_Conversion.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_20/CS568_Lecture_20_Voice_Conversion.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_20/CS568_Lecture_20_Voice_Conversion.pdf`
 - Original slides (PDF): [l20.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_20/l20.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_20/l20.pdf`
+- Quiz: [[CS568 L20 - Voice conversion - quiz]]
 
 Slides not embedded: 1
