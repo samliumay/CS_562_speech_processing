@@ -485,5 +485,6 @@ Page 1 of the listing (embedded under Links) has no demo yet. It holds the impor
 - Full step-by-step notes (PDF): [CS568_Lecture_04_Signals_Transforms.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_04/CS568_Lecture_04_Signals_Transforms.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_04/CS568_Lecture_04_Signals_Transforms.pdf`
 - Original slides (PDF): [l4.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_04/l4.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_04/l4.pdf`
 - Demo code (PDF, 8 pages): [L4_demolar.py.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_04/lms.tedu.edu.tr_pluginfile.php_83676_mod_resource_content_0_L4_demolar.py.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_04/lms.tedu.edu.tr_pluginfile.php_83676_mod_resource_content_0_L4_demolar.py.pdf`. Its pages are also in `others/slides/cs568_lecture_04_l4_demolar_py/`, first page: ![[cs568_lecture_04_l4_demolar_py_p001.jpg]]
+- Quiz: [[CS568 L04 - Signals and transforms - quiz]]
 
 Slides not embedded: 1 (outline). The 8 pages of the demo-code deck are code listings: only page 1 is embedded.
