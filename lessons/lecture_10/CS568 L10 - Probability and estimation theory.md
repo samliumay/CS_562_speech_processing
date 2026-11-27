@@ -485,5 +485,6 @@ A weighted average of the sample mean and the prior mean. This is the idea of MA
 - Previous lecture: [[CS568 L09 - Cepstral analysis]]
 - Full step-by-step notes (PDF): [CS568_Lecture_10_Probability_Estimation.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_10/CS568_Lecture_10_Probability_Estimation.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_10/CS568_Lecture_10_Probability_Estimation.pdf`
 - Original slides (PDF): [l10.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_10/l10.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_10/l10.pdf`
+- Quiz: [[CS568 L10 - Probability and estimation theory - quiz]]
 
 Slides not embedded: 1
