@@ -343,5 +343,6 @@ MATLAB examples of the lecture: `ex8p1.m` (voicing), `ex8p2.m` (pitch), `ex8p3.m
 - Course index: [[CS568 Home]]
 - Full step-by-step notes (PDF): [CS568_Lecture_08_Source_Estimation.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_08/CS568_Lecture_08_Source_Estimation.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_08/CS568_Lecture_08_Source_Estimation.pdf`
 - Original slides (PDF): [l8.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_08/l8.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_08/l8.pdf`
+- Quiz: [[CS568 L08 - Source estimation - quiz]]
 
 Slides not embedded: 1
