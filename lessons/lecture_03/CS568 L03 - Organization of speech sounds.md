@@ -437,5 +437,6 @@ VOT categories (slide 38): negative ([b d g], voicing starts before the release)
 - Used later: [[CS568 L06 - Short-time Fourier analysis]] (spectrograms), [[CS568 L07 - Linear prediction of speech]] (all-pole envelope)
 - Full step-by-step notes (PDF): [CS568_Lecture_03_Speech_Sounds.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_03/CS568_Lecture_03_Speech_Sounds.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_03/CS568_Lecture_03_Speech_Sounds.pdf`
 - Original slides (PDF): [l3.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_03/l3.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_03/l3.pdf`
+- Quiz: [[CS568 L03 - Organization of speech sounds - quiz]]
 
 Slides not embedded: 1 (outline).
