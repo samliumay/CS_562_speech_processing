@@ -533,5 +533,6 @@ $$\%\text{Correct}=\frac{N-D-S}{N}\times100,\qquad \text{Accuracy}=\frac{N-D-S-I
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_21_HTK.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_21/CS568_Lecture_21_HTK.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_21/CS568_Lecture_21_HTK.pdf`
 - Original slides (PDF): [l21.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_21/l21.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_21/l21.pdf`
+- Quiz: [[CS568 L21 - HTK recogniser tutorial - quiz]]
 
 Slides not embedded: 1
