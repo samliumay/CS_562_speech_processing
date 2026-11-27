@@ -350,5 +350,6 @@ MATLAB example: `ex9p2.m` (computing MFCCs).
 - Previous lecture: [[CS568 L08 - Source estimation]]
 - Full step-by-step notes (PDF): [CS568_Lecture_09_Cepstral_Analysis.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_09/CS568_Lecture_09_Cepstral_Analysis.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_09/CS568_Lecture_09_Cepstral_Analysis.pdf`
 - Original slides (PDF): [l9.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_09/l9.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_09/l9.pdf`
+- Quiz: [[CS568 L09 - Cepstral analysis - quiz]]
 
 Slides not embedded: 1
