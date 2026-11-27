@@ -170,3 +170,4 @@ Dates from the schedule: project announced 5 to 9 Oct, midterm 9 to 13 Nov, proj
 - Next: [[CS568 L02 - Speech production and perception]]
 - Full step-by-step notes (PDF): [CS568_Lecture_01_Introduction.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_01/CS568_Lecture_01_Introduction.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_01/CS568_Lecture_01_Introduction.pdf`
 - Original slides (PDF): [l1_Introduction.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_01/l1_Introduction.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_01/l1_Introduction.pdf`
+- Quiz: [[CS568 L01 - Introduction - quiz]]
