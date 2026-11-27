@@ -401,5 +401,6 @@ MMI and GPD cost much more than MLE, because every model is updated for every tr
 - Previous lecture: [[CS568 L13 - Hidden Markov models]]
 - Full step-by-step notes (PDF): [CS568_Lecture_14_HMM_Refinements.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_14/CS568_Lecture_14_HMM_Refinements.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_14/CS568_Lecture_14_HMM_Refinements.pdf`
 - Original slides (PDF): [l14.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_14/l14.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_14/l14.pdf`
+- Quiz: [[CS568 L14 - Refinements for HMMs - quiz]]
 
 Slides not embedded: 1
