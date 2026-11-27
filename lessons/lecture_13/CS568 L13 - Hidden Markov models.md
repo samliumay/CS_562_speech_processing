@@ -414,5 +414,6 @@ One iteration: Forward and Backward passes, compute $\gamma$ and $\xi$ (E-step),
 - Next lecture: [[CS568 L14 - Refinements for HMMs]]
 - Full step-by-step notes (PDF): [CS568_Lecture_13_HMMs.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_13/CS568_Lecture_13_HMMs.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_13/CS568_Lecture_13_HMMs.pdf`
 - Original slides (PDF): [l13.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_13/l13.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_13/l13.pdf`
+- Quiz: [[CS568 L13 - Hidden Markov models - quiz]]
 
 Slides not embedded: 1
