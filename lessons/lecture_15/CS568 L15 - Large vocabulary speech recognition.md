@@ -464,5 +464,6 @@ $s>1$ is the LM scale factor, $|W|$ the number of words, $p<1$ the word insertio
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_15_LVCSR.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_15/CS568_Lecture_15_LVCSR.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_15/CS568_Lecture_15_LVCSR.pdf`
 - Original slides (PDF): [l15.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_15/l15.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_15/l15.pdf`
+- Quiz: [[CS568 L15 - Large vocabulary speech recognition - quiz]]
 
 Slides not embedded: 1
