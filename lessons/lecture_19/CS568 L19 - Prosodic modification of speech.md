@@ -409,5 +409,6 @@ Modification is simple: duplicate or remove time slices (duration), edit the $F_
 - Quizzes and labs that use this lecture: none (the midterm booklet covers Lectures 1 to 6).
 - Full step-by-step notes (PDF): [CS568_Lecture_19_Prosodic_Modification.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_19/CS568_Lecture_19_Prosodic_Modification.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lecture_notes/lecture_19/CS568_Lecture_19_Prosodic_Modification.pdf`
 - Original slides (PDF): [l19.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_19/l19.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/cs_568/lectures/lecture_19/l19.pdf`
+- Quiz: [[CS568 L19 - Prosodic modification of speech - quiz]]
 
 Slides not embedded: 1
